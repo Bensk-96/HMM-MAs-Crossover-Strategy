@@ -5,6 +5,7 @@ SPY
 Strategy 1 : SMAs crossover
 Long position when fast SMA > slow SMA in bull regime
 Close position slow SMA crosses fast SMA from below or in bear regime
+
 Ref : https://www.quantstart.com/articles/market-regime-detection-using-hidden-markov-models-in-qstrader/
 
 Strategy 2 : 4 SMAs crossover
