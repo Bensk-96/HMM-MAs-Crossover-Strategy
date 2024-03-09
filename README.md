@@ -1,6 +1,6 @@
 # HMM-MAs-Crossover-Strategy
 
-SPY
+Trade SPY
 
 Strategy 1 : SMAs crossover
 Long position when fast SMA > slow SMA in bull regime
