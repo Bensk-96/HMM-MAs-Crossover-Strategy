@@ -22,3 +22,5 @@ Assume no comission, e.g. Alpaca
 
 Grid Search Parameters from 2013 to 2017
 
+Note : Open the Notebook on Google Colab to check the backtest visualization
+
