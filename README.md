@@ -26,13 +26,13 @@ https://kernc.github.io/backtesting.py/doc/examples/Parameter%20Heatmap%20&%20Op
 
 ## Setup
 No Commission (e.g., Alpaca Broker)
+
 Leverage: 3x
+
 Parameter Grid Search: 2013-2017
-Additional Information
 
 For detailed backtest visualization, open the provided Notebook on Google Colab.
 
-Note : Open the Notebook on Google Colab to check the backtest visualization
 
 ## Result
 ![image](https://github.com/Bensk-96/HMM-MAs-Crossover-Strategy/assets/91371262/05117633-4020-4da4-9155-35fda3710bbb)
@@ -44,3 +44,11 @@ Sharpe Ratio of Strategy 1 : 0.6696810693455783
 Sharpe Ratio of Strategy 2 : 0.9297959765166186
 
 Sharpe Ratio of Strategy 3 : 0.6571711301232631
+
+MDD of Benchmark(SPY) : 0.3410474689324395
+
+MDD of Strategy 1 : 0.32425334905180203
+
+MDD of Strategy 2 : 0.2481056115562401
+
+MDD of Strategy 3 : 0.3261061847124795
