@@ -26,8 +26,6 @@ Leverage: 3x
 
 Parameter Grid Search: 2013-2017
 
-Backtest: 2018 - 2023
-
 For detailed backtest visualization, open the provided Notebook on Google Colab.
 
 
