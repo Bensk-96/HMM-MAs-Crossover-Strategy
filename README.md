@@ -34,3 +34,7 @@ For detailed backtest visualization, open the provided Notebook on Google Colab.
 
 Note : Open the Notebook on Google Colab to check the backtest visualization
 
+## Result
+![image](https://github.com/Bensk-96/HMM-MAs-Crossover-Strategy/assets/91371262/05117633-4020-4da4-9155-35fda3710bbb)
+
+
