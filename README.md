@@ -1,6 +1,6 @@
-# Trade SPY with Advanced SMA Strategies (Bull Regime Focused)
+# Hidden Markov Model Enhanced SMA Strategies
 
-Overview: Utilizing Hidden Markov Models (HMM) to identify bull regimes (less volatile market phases), this repository features three distinct SMA-based trading strategies on SPY. The strategies are activated during these identified bull regimes to optimize performance.
+Overview: Utilizing Hidden Markov Models (HMM) to identify different regimes, this repository features three distinct SMA-based trading strategies on SPY. The strategies are activated during these identified bull regimes to optimize performance.
 
 ## Strategy 1: Standard SMA Crossover
 
