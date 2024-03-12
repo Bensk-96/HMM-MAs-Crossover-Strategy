@@ -37,6 +37,7 @@ For detailed backtest visualization, open the provided Notebook on Google Colab.
 ## Result
 ![image](https://github.com/Bensk-96/HMM-MAs-Crossover-Strategy/assets/91371262/05117633-4020-4da4-9155-35fda3710bbb)
 
+- Sharpe Ratio
 Sharpe Ratio of Benchmark(SPY) : 0.6220482700533883
 
 Sharpe Ratio of Strategy 1 : 0.6696810693455783
@@ -45,6 +46,7 @@ Sharpe Ratio of Strategy 2 : 0.9297959765166186
 
 Sharpe Ratio of Strategy 3 : 0.6571711301232631
 
+- Maximum Drawdown
 MDD of Benchmark(SPY) : 0.3410474689324395
 
 MDD of Strategy 1 : 0.32425334905180203
