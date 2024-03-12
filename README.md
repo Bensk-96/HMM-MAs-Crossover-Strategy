@@ -15,7 +15,7 @@ https://www.quantstart.com/articles/market-regime-detection-using-hidden-markov-
 - Long Position: Enter when the close price is above sma_enter, and the fast SMA is above the slow SMA, exclusively in a bull regime.
 - Close Position: Exit upon sma_enter falling below the close price, sma_exit falling below the close price, or a transition to a bear regime.
 - Inspired by Parameter Heatmap & Optimization
-- 
+ 
 https://kernc.github.io/backtesting.py/doc/examples/Parameter%20Heatmap%20&%20Optimization.html
 
 
