@@ -49,3 +49,6 @@ MDD of Strategy 1 : 0.324
 MDD of Strategy 2 : 0.248
 
 MDD of Strategy 3 : 0.326
+
+## Next Steps
+- Paper Trading and Live Trading
