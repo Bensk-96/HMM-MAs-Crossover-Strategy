@@ -2,6 +2,8 @@
 
 Overview: Utilizing Hidden Markov Models (HMM) to identify different regimes, this repository features three distinct SMA-based trading strategies on SPY. The strategies are activated during these identified bull regimes to optimize performance.
 
+Note: For correct rendering, please clone this repository and open the .ipynb notebook locally in Jupyter or VS Code.
+
 ## Strategy 1: Standard SMA Crossover
 
 - Long Position: Initiate when the fast SMA exceeds the slow SMA in a bull regime.
